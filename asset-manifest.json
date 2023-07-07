@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/levitation/static/css/main.478a5844.css",
+    "main.js": "/levitation/static/js/main.487254ab.js",
+    "static/js/787.2564f337.chunk.js": "/levitation/static/js/787.2564f337.chunk.js",
+    "index.html": "/levitation/index.html",
+    "main.478a5844.css.map": "/levitation/static/css/main.478a5844.css.map",
+    "main.487254ab.js.map": "/levitation/static/js/main.487254ab.js.map",
+    "787.2564f337.chunk.js.map": "/levitation/static/js/787.2564f337.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.478a5844.css",
+    "static/js/main.487254ab.js"
+  ]
+}
