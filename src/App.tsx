@@ -5,7 +5,7 @@ import {
 } from "react-router-dom";
 import LoginPage from './pages/LoginPage';
 import ForgotPasswordPage from './pages/ForgotPasswordPage';
-import MultiStepFormPage from './pages/Form';
+import MultiStepFormPage from './pages/Index';
 
 function App() {
   return (

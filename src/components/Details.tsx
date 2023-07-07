@@ -1,5 +1,5 @@
 import React, { useState } from "react";
-import { countryCodes } from "../common/Data";
+import { countryCodes } from "../assets/Data";
 
 type Field = {
   label: string; // Label of the field

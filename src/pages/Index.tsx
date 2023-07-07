@@ -4,7 +4,7 @@ import Details from "../components/Details";
 import FileUpload from "../components/FileUpload";
 import MultiFileUpload from "../components/MultiFileUpload";
 import AddressDetails from "../components/AddressDetails";
-import { Basic, addressDetails } from "../common/Data";
+import { Basic, addressDetails } from "../assets/Data";
 
 
 const MultiStepForm = () => {

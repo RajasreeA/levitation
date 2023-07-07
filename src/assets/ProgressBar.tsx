@@ -1,5 +1,3 @@
-// src/components/common/ProgressBar.tsx
-
 import React from 'react';
 
 interface ProgressBarProps {
